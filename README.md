@@ -1,3 +1,31 @@
+# 2022-04-12 更新华为B310的修复包,可以配合下面的固件修复华为B315,还可以实现解锁
+## 华为4G路由修复包
+```
+B310AS-852.rarB310AS-852
+B315修复坏块.txt 用于擦写分区的命令说明.txt
+B315修复工具，用于修复B315不开机等情况.rar
+Balong_USB_Downloader_1.0.1.10.exe 用于刷入引导loaderbin.exe
+E5172sBootRomDownloadTool.exe用于刷入固件（图形化.exe
+FC_Serial_Driver_Setup.exe 华为FC-PC下载模式端口驱动.exe
+Fix.bin 用于修复B310不开机，使用usbloader方法刷入.rar
+Huawei Driver v 5.01.06.00.rar 华为3G-PC模式端口驱动.rar
+PUTTY.exe用于talent等模式调试工具.exe
+balong_flash.exe 用于刷入固件.exe
+balong_usbdload.exe 用于刷入引导loaderbin.exe
+curl.exe
+curl.exe用于进模式的网页工具.exe
+fastboot-b315-baderase.bin，用于修复不开机，使用usbloader方法刷入.rar
+ls.txt
+multicast_upgrade_tool.exe 用网线升级的工具.exe
+usbloader-b310.bin用于引导的文件（会清除信息，适合异常机器.rar
+usblsafe_b315-b310.bin用于引导的文件（国内外310_315适用.rar
+华为at命令手册.pdf，用于at各种调试.pdf
+进模式.bat
+进模式.xml
+进模式.xml 用于进模式的文件，与curl.exe需在同一文件夹.rar
+参考命令.txt
+```
+
 # Huawei B315s 
 
 ### Huawei B315s-22
